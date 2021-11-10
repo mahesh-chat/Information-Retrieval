@@ -1,0 +1,4 @@
+flask
+natsort
+numpy
+nltk
